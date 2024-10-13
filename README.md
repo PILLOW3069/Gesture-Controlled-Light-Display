@@ -79,7 +79,7 @@ Install the necessary Python libraries using the following command:
 
 ### Step 2: Upload Arduino Code
 
-Upload the provided [program](/program.ino) file to your Arduino using the Arduino IDE.
+Upload the provided [program](/Program.ino) file to your Arduino using the Arduino IDE.
 
 ---
 
