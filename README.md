@@ -1,7 +1,7 @@
 # Gesture-Controlled Light Display
 ---
 
-This project uses the [MediaPipe](https://google.github.io/mediapipe/) library to track the user's hand, detect the distance between two fingers (thumb and index), and control the number of LEDs on an Arduino board. The number of LEDs that light up is proportional to the distance between the fingers, with a maximum of five LEDs lighting when the fingers are farthest apart.
+This project uses the MediaPipe library to track the user's hand, detect the distance between two fingers (thumb and index), and control the number of LEDs on an Arduino board. The number of LEDs that light up is proportional to the distance between the fingers, with a maximum of five LEDs lighting when the fingers are farthest apart.
 
 ## Table of Contents
 
